@@ -1,4 +1,4 @@
-# Google Integration for ADK Voice Assistant
+# Google Integration for Jarvis Voice Assistant
 
 This document explains how to set up and use the Google Calendar and Gmail integration with your ADK Voice Assistant.
 
